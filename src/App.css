@@ -1,0 +1,25 @@
+.list{
+  list-style: none;
+  padding-left: 10px;
+}
+.song{
+  border-bottom: 1px solid #6a6ae2;
+  height: 40px;
+}
+.listContainer{
+  margin-bottom: 50px;
+}
+.song:hover{
+  background-color: #9f9faf;
+}
+.controls{
+  background-color: #c5c5c5;
+  height: 50px;
+  text-align: center;
+}
+.button{
+  font-size: 35px;
+}
+.selected{
+  background-color: #838ff5;
+}
