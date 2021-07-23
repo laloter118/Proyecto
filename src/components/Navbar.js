@@ -9,7 +9,7 @@ function Navbar() {
             <nav className="navbar navbar-expand-lg navbar-light bg-light">
                 <div className="container-fluid">
                     <Link to="/">
-                        <img src='./musica.jpg' height= "50" />
+                        <img src='./FXmusica.png' height= "50" />
                     
                     </Link>
                     <button className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
@@ -18,7 +18,7 @@ function Navbar() {
                     <div className="collapse navbar-collapse" id="navbarSupportedContent">
                     <ul className="navbar-nav me-auto ">
                         <li className="nav-item">
-                        <Link className="nav-link" to="/" >Reproductor</Link>
+                        <Link className="nav-link" to="/" >Inicio</Link>
                         </li>
                         <li className="nav-item">
                         <a className="nav-link" href="#"></a>
